@@ -3,8 +3,9 @@
 - using Burp suite pro (report of html file )
 - all infomation in /info
 - Final report in google docx 
-  - https://docs.google.com/document/d/13iRWGvwrpSCA-ZNCP2hvyPYVxIH-3GeLnvkqCVESh-E/edit?tab=t.0#heading=h.ja5llg71si6f
-  - if you want to edit the docx file pls tell me , i will give you the permission 
+  - https://docs.google.com/document/d/13iRWGvwrpSCA-ZNCP2hvyPYVxIH-3GeLnvkqCVESh-E/edit?usp=sharing 
+  - Be careful that is the editing link!
+  - that is writable file , and I don't have any backup 
   - I am using OWASP Top 10 to analyze the threat or risk
  
 ## Mission : 
