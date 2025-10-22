@@ -25,7 +25,8 @@
 open the file by burp suite pro ：　
 - unzip the file (2025-10-23.zip)
 - open the file called 2025-10-23.burp
-- you can see the screenshot
+- you can see the domo in screenshot
+- both html file is readable report , you have to download and using browser to open it
 
 ## /report 
 - an init report in pdf format
