@@ -4,6 +4,7 @@
 - all infomation in /info
 - Final report in google docx 
   - https://docs.google.com/document/d/13iRWGvwrpSCA-ZNCP2hvyPYVxIH-3GeLnvkqCVESh-E/edit?tab=t.0#heading=h.ja5llg71si6f
+  - if you want to edit the docx file pls tell me , i will give you the permission 
   - I am using OWASP Top 10 to analyze the threat or risk
  
 ## Mission : 
@@ -18,3 +19,13 @@
 - organize the content
 - also can add some missing OWASP Top 10 , and said that we don't found this vulnerability
 - Remind !!!! report only 1000 words , don't add to much!!!!
+
+## /info
+open the file by burp suite pro ：　
+- unzip the file (2025-10-23.zip)
+- open the file called 2025-10-23.burp
+- you can see the screenshot
+
+## /report 
+- a init report in pdf format
+- we have to finish the above mission, then done the final report
