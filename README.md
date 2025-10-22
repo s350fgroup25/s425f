@@ -27,5 +27,5 @@ open the file by burp suite pro ：　
 - you can see the screenshot
 
 ## /report 
-- a init report in pdf format
+- an init report in pdf format
 - we have to finish the above mission, then done the final report
